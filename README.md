@@ -1,6 +1,6 @@
 ## 👩🏻‍💻 Nathan Barbosa
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 👋 Olá! Meu nome é Natha Barbosa Teixeira, sou estudante de Sistemas da Informação na SPTech School.
 Tenho interesse em desenvolvimento de software e estou em constante aprendizado, buscando evoluir minhas habilidades técnicas e construir uma base sólida na área de tecnologia.
