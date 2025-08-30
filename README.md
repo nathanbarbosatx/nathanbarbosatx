@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-👋 Olá! Me chamo Natha Barbosa Teixeira, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio e atualmente estou cursando Sistemas da Informação na SPTech School. Sou iniciante na área de tecnologia, mas muito curioso e apaixonado por aprender cada vez mais sobre desenvolvimento e inovação.
+👋 Olá! Me chamo Nathan Barbosa Teixeira, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio e atualmente estou cursando Sistemas da Informação na SPTech School. Sou iniciante na área de tecnologia, mas muito curioso e apaixonado por aprender cada vez mais sobre desenvolvimento e inovação.
 
 Estou em constante evolução e registro minha jornada no mundo da tecnologia aqui no GitHub, onde compartilho meus estudos e projetos práticos.
 
